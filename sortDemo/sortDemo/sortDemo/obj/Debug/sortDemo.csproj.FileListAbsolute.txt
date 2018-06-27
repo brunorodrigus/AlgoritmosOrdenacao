@@ -1,0 +1,66 @@
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+d:\users\diego.martins\documents\visual studio 2017\Projects\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+E:\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+E:\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+E:\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+E:\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csprojResolveAssemblyReference.cache
+E:\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+E:\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+E:\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+E:\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+E:\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+C:\Users\IEUser\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+C:\Users\IEUser\Desktop\sortDemo1\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+C:\Users\Bruno\Desktop\sortDemo\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe.config
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.exe
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\bin\Debug\sortDemo.pdb
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csprojResolveAssemblyReference.cache
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Form1.resources
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.Properties.Resources.resources
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.csproj.GenerateResource.Cache
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.exe
+C:\Users\2015101422\Downloads\Sort-Bruno\sortDemo\sortDemo\sortDemo\obj\Debug\sortDemo.pdb
